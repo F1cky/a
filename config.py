@@ -1,10 +1,10 @@
 # -*- coding: utf8 -*-
-token="5066903451:AAErw8Y58fpqUf5SNFDSGYGU1w6ISB_t6t0"
+token="5266842213:AAGSfZ3GQDfCmogPlE_toRuTRt47HUcXSQ4"
 dirbot="C:\\Users\\Administrator\\Desktop\\bot\\"
 otstuklink="https://t.me/+Kv5Ui1fEZTZiMzZi"
 manuallink="https://telegra.ph/Manual-po-traffiku-YT-12-02"
-chatlink="https://t.me/+KRLCK_UuIBtiZWFi"
-team="ALLIENS TEAM"
+chatlink="https://t.me/+rBsOeH_vBlRlOGIy"
+team="FICKY TEAM"
 minpass=0 
 mincookies=0
 amschatid="1392549702"
